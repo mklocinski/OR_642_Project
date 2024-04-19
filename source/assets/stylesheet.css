@@ -1,0 +1,103 @@
+.navbar {
+    background-color: #024883;
+    width: 100%;
+}
+
+.navlink {
+    color: white;
+}
+
+.page {
+    height: 100vh;
+}
+
+.standard-container {
+    height: 80vh;
+    margin:5px;
+}
+
+
+.sidebar {
+    height: 80vh;
+    background: #F1F2F3;
+    border-radius: 10px;
+    padding:30px;
+    margin:5px;
+}
+
+.light-emphasis {
+    background: #dde6d5;
+    border-radius: 10px;
+    padding:30px;
+    margin:5px;
+}
+
+.dark-emphasis {
+    background: #024883;
+    font-color: #e5ecf2;
+    border-radius: 10px;
+    padding:30px;
+    margin:5px;
+}
+
+.outline-emphasis {
+    border-color: #dde6d5;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 10px;
+    padding:30px;
+    margin:5px;
+}
+
+.button {
+   background-color: #024883;
+}
+
+.button:disabled {
+   background-color: #024883;
+}
+
+.minor-button {
+   background-color: #F1F2F3;
+   border-color: #A9A9A9;
+   color: #A9A9A9;
+   font-size: 14px;
+}
+
+.dark-emphasis-button {
+   background-color: #e5ecf2;
+   border-color: #e5ecf2;
+   color: #024883;
+}
+
+.tab {
+    padding:10px !important;
+    font-size: 14px;
+}
+
+ .react-grid-Header {
+   box-shadow: 0px 0px 4px 0px #dddddd;
+   background: #f9f9f9;
+ }
+
+ .react-grid-HeaderCell {
+  background: #f9f9f9;
+  padding: 8px;
+  font-weight: bold;
+  border-right: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd;
+}
+
+.react-grid-Main {
+  background-color: black;
+  color: inherit;
+  padding: 0px;
+  outline: 1px solid #e7eaec;
+}
+
+.radio {
+
+    font-size: 14px;
+    margin:5px;
+
+}
